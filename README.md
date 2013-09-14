@@ -31,6 +31,16 @@ Edit your scheme, go to "Test" - "Arguments" and add the Environment Variable `F
 
 ![Settings Screen](https://raw.github.com/x2on/FSJUnitTestLog/master/FSJUnitTestLogExample/Screen.png)
 
+## Continuous Integration
+
+### TeamCity
+
+[TeamCity](http://www.jetbrains.com/teamcity/) support is integrated. TeamCity automatically imports the generated JUnit.xml file with service messages.
+
+### Jenkins
+
+[Jenkins](http://jenkins-ci.org/) support is integrated, but you must install the [JUnit Attachments Plugin](https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Attachments+Plugin).
+
 ## Demo
 
 The demo project uses [CocoaPods](http://cocoapods.org/) for dependency management.
