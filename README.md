@@ -29,6 +29,8 @@ Add the code at the beginning of your app delegate:
 
 Edit your scheme, go to "Test" - "Arguments" and add the Environment Variable `FSJUnitTestLog` with the value `1`
 
+![Settings Screen](https://raw.github.com/x2on/FSJUnitTestLog/master/FSJUnitTestLogExample/Screen.png)
+
 ## Demo
 
 The demo project uses [CocoaPods](http://cocoapods.org/) for dependency management.
