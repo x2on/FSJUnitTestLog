@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
-  s.name         = "FSJunitTestLog"
+  s.name         = "FSJUnitTestLog"
   s.version      = "0.9.0"
-  s.summary      = "FSJunitTestLog is a XCTestObserver implementation, which converts the test results to an JUnit XML Results file."
-  s.homepage     = "https://github.com/x2on/FSJunitTestLog"
+  s.summary      = "FSJUnitTestLog is a XCTestObserver implementation, which converts the test results to an JUnit XML Results file."
+  s.homepage     = "https://github.com/x2on/FSJUnitTestLog"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Felix Schulze" => "code@felixschulze.de" }
   s.source       = { 
