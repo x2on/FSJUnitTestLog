@@ -14,5 +14,7 @@ Pod::Spec.new do |s|
   s.source_files = 'FSJUnitTestLog.{h,m}'
   s.framework	 = 'XCTest', 'Foundation'
   s.dependency 'GDataXML-HTML', '~> 1.1.0'
+  s.library = 'xml2'
+  s.xcconfig = { 'HEADER_SEARCH_PATHS' => '$(SDKROOT)/usr/include/libxml2' }
 
 end
