@@ -7,7 +7,7 @@ Using [CocoaPods](http://cocoapods.org/):
 
 ```
 target :YourTestTarget do
-	pod 'FSJUnitTestLog', '~> 0.9.0'
+	pod 'FSJUnitTestLog', '~> 1.0'
 end
 ```
 
