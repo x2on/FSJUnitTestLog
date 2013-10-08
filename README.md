@@ -1,4 +1,5 @@
-# FSJUnitTestLog
+# FSJUnitTestLog [![Cocoa Pod](https://cocoapod-badges.herokuapp.com/p/FSJUnitTestLog/badge.svg)](http://cocoadocs.org/docsets/FSJUnitTestLog/) [![Cocoa Pod](https://cocoapod-badges.herokuapp.com/v/FSJUnitTestLog/badge.svg)](http://cocoadocs.org/docsets/FSJUnitTestLog/)
+
 
 FSJunitTestLog is a XCTestObserver implementation for iOS 7+ XCTests, which converts the test results to an JUnit XML Results file.
 
